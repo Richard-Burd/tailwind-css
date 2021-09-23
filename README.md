@@ -1,10 +1,20 @@
-##Tailwind-CSS
+# Tailwind-CSS
 
 The code for this series is available [here](https://github.com/iamshaunjp/tailwind-tutorial)
----
-The video series is available [here](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+The video tutorial series is available [here](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
 
-#Sections
+## Commands
+
+1. Run `npm run build-css` to compile the **./src/styles.css** into the **./public/styles.css** file.
+2. Run `npm start` to boot up the Express.js server.
+---
+## Lesson Notes
+
+3. [font size](https://tailwindcss.com/docs/font-size#asp), [font weight](https://tailwindcss.com/docs/font-weight#asp), and [color](https://tailwindcss.com/docs/customizing-colors#asp).
+
+4. margin, padding & borders
+---
+## Progress
 
 - [x] 1.)
 - [x] 2.)
@@ -25,12 +35,3 @@ The video series is available [here](https://youtube.com/playlist?list=PL4cUxeGk
 - [ ] 17.)
 - [ ] 18.)
 - [ ] 19.)
----
-#Commands
-
-1. Run `npm run build-css` to compile the *./src/styles.css* into the *./public/styles.css* file.
-2. Run `npm start` to boot up the Express.js server.
----
-#Lessons
-
-3. covers [font size](https://tailwindcss.com/docs/font-size#asp), [font weight](https://tailwindcss.com/docs/font-weight#asp), and [color](https://tailwindcss.com/docs/customizing-colors#asp).
