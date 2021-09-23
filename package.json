@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss -i src/styles.css -o public/styles.css",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richard-Burd/tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richard-Burd/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/Richard-Burd/tailwind-css#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tailwindcss": "^2.2.15"
+  }
+}
