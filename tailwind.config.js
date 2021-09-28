@@ -10,6 +10,11 @@ module.exports = {
           100: '#E2E2D5',
           200: '#888883',
         }
+      },
+      fontFamily: {
+        /* imported from here: https://fonts.google.com/specimen/Nunito?query=Nunito#standard-styles */
+        /* wherever I use the 'font-body' in a class property in html, this font will appear*/
+        body: ['Nunito']
       }
     },
   },

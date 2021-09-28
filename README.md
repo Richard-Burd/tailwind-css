@@ -16,6 +16,8 @@ The video tutorial series is available [here](https://youtube.com/playlist?list=
 
 4. [margin](https://tailwindcss.com/docs/margin#asp), [padding](https://tailwindcss.com/docs/padding#asp), & [borders](https://tailwindcss.com/docs/border-width#asp)
 
+8. [responsive design](https://tailwindcss.com/docs/responsive-design#asp)
+
 ## Progress
 
 - [x] 1.)
@@ -23,14 +25,14 @@ The video tutorial series is available [here](https://youtube.com/playlist?list=
 - [x] 3.)
 - [x] 4.)  
 - [x] 5.)
-- [ ] 6.)  Left off [here](https://youtu.be/arfDRUIZOiw)
-- [ ] 7.)
-- [ ] 8.)
-- [ ] 9.)
-- [ ] 10.)
-- [ ] 11.)
-- [ ] 12.)
-- [ ] 13.)
+- [x] 6.)  
+- [x] 7.)
+- [x] 8.)
+- [x] 9.)
+- [x] 10.)
+- [x] 11.)
+- [x] 12.)
+- [ ] 13.) Left off [here](https://youtu.be/kMiMlB5PZRM)
 - [ ] 14.)
 - [ ] 15.)
 - [ ] 16.)
